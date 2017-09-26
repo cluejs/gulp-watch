@@ -1,0 +1,23 @@
+{
+  "name": "@cluejs/gulp-watch",
+  "version": "0.1.0",
+  "description": "Wrapper watcher for gulp with debounce",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "demian_dark",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-watch": "^4.3.11",
+    "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluejs/gulp-watch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cluejs/gulp-watch/issues"
+  },
+  "homepage": "https://github.com/cluejs/gulp-watch#readme"
+}
