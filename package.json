@@ -1,6 +1,6 @@
 {
   "name": "@cluejs/gulp-watch",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Wrapper watcher for gulp with debounce",
   "main": "index.js",
   "scripts": {},
